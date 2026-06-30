@@ -77,7 +77,7 @@ The environment is considered "solved" when the agent consistently achieves rewa
 ## 👤 Author
 
 **Maryam Saif**
-Junior AI & Machine Learning Engineer | Data Scientist
+
 [GitHub](https://github.com/saifmaryam) | [LinkedIn](#) | [Hugging Face](#)
 
 ---
